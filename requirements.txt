@@ -1,0 +1,12 @@
+flask
+flask-smorest
+python-dotenv
+sqlalchemy
+flask-sqlalchemy
+marshmallow
+flask-migrate
+gunicorn
+#psycopg2
+#psycopg2-binary
+mysql-connector-python
+flask_mysqldb
